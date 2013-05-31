@@ -7,6 +7,7 @@ import nme.events.SecurityErrorEvent;
 import nme.net.URLLoader;
 import nme.net.URLLoaderDataFormat;
 import nme.net.URLRequest;
+import nme.net.URLRequestHeader;
 import nme.net.URLRequestMethod;
 import nme.utils.ByteArray;
 import vfs.utils.EventUtils;
@@ -35,6 +36,8 @@ class HttpFileSystem extends VirtualFileSystem
 		var urlRequest:URLRequest = new URLRequest(getAbsolutePath(name));
 		loader.dataFormat = URLLoaderDataFormat.BINARY;
 		urlRequest.method = URLRequestMethod.GET;
+		//urlRequest.req
+		//new URLRequestHeader();
 		
 		done = LangUtils.callOnce(done);
 		

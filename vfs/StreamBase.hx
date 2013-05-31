@@ -13,6 +13,6 @@ class StreamBase
 	
 	public function readBytesAsync(length:Int, done:ByteArray -> Void):Void
 	{
-		throw(Std.format("Not implemented Stream.readBytesAsync : $this"));
+		throw('Not implemented Stream.readBytesAsync : $this');
 	}
 }
