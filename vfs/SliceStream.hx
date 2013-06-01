@@ -1,7 +1,7 @@
 package vfs;
 
 import vfs.utils.LangUtils;
-import nme.utils.ByteArray;
+import flash.utils.ByteArray;
 import vfs.Stream;
 
 /**

@@ -1,7 +1,7 @@
 package vfs;
 import vfs.utils.ByteArrayUtils;
-import nme.errors.Error;
-import nme.utils.ByteArray;
+import flash.errors.Error;
+import flash.utils.ByteArray;
 
 /**
  * ...

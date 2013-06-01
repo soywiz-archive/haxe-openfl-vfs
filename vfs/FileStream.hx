@@ -3,8 +3,8 @@ import vfs.utils.ByteUtils;
 import vfs.utils.StringEx;
 import haxe.io.Bytes;
 import haxe.Log;
-import nme.errors.Error;
-import nme.utils.ByteArray;
+import flash.errors.Error;
+import flash.utils.ByteArray;
 
 #if (cpp || neko)
 

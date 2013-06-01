@@ -1,4 +1,4 @@
-haxe-nme-vfs
+haxe-openfl-vfs
 ============
 
-VirtualFileSystem for Haxe NME that abstracts reading files from different sources
+VirtualFileSystem for Haxe OpenFL that abstracts reading files from different sources

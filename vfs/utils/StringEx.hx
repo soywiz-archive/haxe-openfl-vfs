@@ -1,5 +1,5 @@
 package vfs.utils;
-import nme.errors.Error;
+import flash.errors.Error;
 
 /**
  * ...

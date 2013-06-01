@@ -1,7 +1,7 @@
 package vfs.utils;
 
-import nme.utils.ByteArray;
-import nme.utils.Endian;
+import flash.utils.ByteArray;
+import flash.utils.Endian;
 
 /**
  * ...
@@ -11,7 +11,7 @@ import nme.utils.Endian;
 #if cpp
 typedef EndianType = String;
 #else
-typedef EndianType = nme.utils.Endian;
+typedef EndianType = flash.utils.Endian;
 #end
 
 class ByteArrayUtils 

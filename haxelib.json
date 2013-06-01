@@ -1,0 +1,13 @@
+{
+  "name": "openfl-vfs",
+  "url": "https://github.com/soywiz/haxe-openfl-vfs",
+  "license": "MIT",
+  "tags": [ "openfl", "cpp", "neko", "vfs" ],
+  "description": "OpenFL haxe library that abstracts file system access / file reading from different sources.",
+  "version": "0.0.1",
+  "releasenote": "First version",
+  "contributors": [ "soywiz" ],
+  "dependencies": {
+	"openfl" : ""
+  }
+}

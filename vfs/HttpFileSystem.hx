@@ -1,15 +1,15 @@
 package vfs;
-import nme.errors.Error;
-import nme.events.Event;
-import nme.events.HTTPStatusEvent;
-import nme.events.IOErrorEvent;
-import nme.events.SecurityErrorEvent;
-import nme.net.URLLoader;
-import nme.net.URLLoaderDataFormat;
-import nme.net.URLRequest;
-import nme.net.URLRequestHeader;
-import nme.net.URLRequestMethod;
-import nme.utils.ByteArray;
+import flash.errors.Error;
+import flash.events.Event;
+import flash.events.HTTPStatusEvent;
+import flash.events.IOErrorEvent;
+import flash.events.SecurityErrorEvent;
+import flash.net.URLLoader;
+import flash.net.URLLoaderDataFormat;
+import flash.net.URLRequest;
+import flash.net.URLRequestHeader;
+import flash.net.URLRequestMethod;
+import flash.utils.ByteArray;
 import vfs.utils.EventUtils;
 import vfs.utils.LangUtils;
 

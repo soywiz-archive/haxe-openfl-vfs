@@ -1,5 +1,5 @@
 package vfs;
-import nme.utils.ByteArray;
+import flash.utils.ByteArray;
 
 /**
  * ...

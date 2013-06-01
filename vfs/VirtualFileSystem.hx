@@ -2,8 +2,8 @@ package vfs;
 
 import vfs.Stream;
 import haxe.Timer;
-import nme.errors.Error;
-import nme.utils.ByteArray;
+import flash.errors.Error;
+import flash.utils.ByteArray;
 
 /**
  * ...

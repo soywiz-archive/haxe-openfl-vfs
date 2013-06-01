@@ -1,7 +1,7 @@
 package vfs.utils;
 import haxe.io.Bytes;
-import nme.utils.ByteArray;
-import nme.utils.Endian;
+import flash.utils.ByteArray;
+import flash.utils.Endian;
 
 /**
  * ...

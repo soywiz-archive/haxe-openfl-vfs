@@ -1,6 +1,6 @@
 package vfs.utils;
-import nme.errors.Error;
-import nme.events.IEventDispatcher;
+import flash.errors.Error;
+import flash.events.IEventDispatcher;
 
 /**
  * ...
